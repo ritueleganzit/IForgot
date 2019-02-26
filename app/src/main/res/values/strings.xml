@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">IForgottt</string>
+    <string name="device_admin_explanation"></string>
+    <string name="compliant"></string>
+    <string name="not_compliant"></string>
+    <string name="password_failed"></string>
+    <string name="password_success"></string>
+    <string name="appinfo">
+
+        Habit of forgetting the device. \n
+        \n No worries now you can easily access phonebook and change the mode of your device , divert all your calls.  \n
+        \n Turn your device into a spy with the spy camera user entering wrong password will be clicked and the pic will be automatically saved in the Picture directory in your FileExplorer.\n
+        \n All you need is to just set the passcode for each of them and with normal sms you need to send that passcode the phone will work accordingly.\n
+        \n Steps How to use this app.\n
+        \n Go to Set Passcode Screen.\n
+        \n You just need to save code for using any of the functionality each code must be different.\n
+        \n Example For Silent type 123 or any code and save it. Now from another device just send an sms 123 or the code that you have saved to your mobile and see your device goes to silent mode.\n
+        \n Same way for Normal Mode save different code other than already defined code otherwise it wont work and device will get confused whether to change it to silent or Normal mode.\n
+        \n For Divert save any code example 111 and to which number you want all your calls to be diverted from that number send a sms with that saved code.\n
+        \n For fetching Contacts if you are saving jjj than while sending sms from other device you need to type.
+        jjjDad for fetching Dad\'s contact info same you just need to type code along with the person\'s contactname as stored in your phonebook all you need to type without any space.\n
+        \n Remember all the codes must be unique.\n
+
+</string>
+</resources>
